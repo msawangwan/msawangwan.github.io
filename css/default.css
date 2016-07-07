@@ -1,0 +1,21 @@
+/* default layout for small form-factor devices. */
+
+#l-page-main {
+  max-width: 700px;
+  width: 93%;
+  margin: 0 auto;
+  background-color: #FFFFFF; /* white 000 */
+}
+
+.l-header-primary {
+  max-width: 100%;
+  background-color: #FB8C00; /* orange 600 */
+}
+
+.l-grid-container {
+  max-width: 95%;
+  background-color: #4CAF50; /* green 500 */
+}
+
+.grid-item {
+}
