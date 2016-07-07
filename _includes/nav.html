@@ -1,0 +1,9 @@
+<nav class="nav-primary" role="navigation">
+  <ul>
+    {% for p in site.pages %}
+    <li>
+    <a {% if p.url == page.prl %}class="active"{% endit %} href="{{ site.baseurl }}{{ p.url }}">
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
