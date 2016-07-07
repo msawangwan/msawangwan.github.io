@@ -2,7 +2,7 @@
   <ul>
     {% for p in site.pages %}
     <li>
-    <a {% if p.url == page.prl %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">
+    <a {% if p.url == page.prl %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}"></a>
     </li>
     {% endfor %}
   </ul>
