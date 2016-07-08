@@ -10,14 +10,14 @@
 }
 
 .l-page-header {
-  margin: 0 auto;
   max-width: 95%;
-  background-color: #FB8C00; /* orange 600 */
+/*  background-color: #FB8C00; /* orange 600 */
 }
 
 .l-page-nav, .l-page-container {
-  margin: 15px auto;
   max-width: 95%;
 }
+
+.l-page-header, .l-page-nav, .l-page-container { margin: 15px auto; }
 
 /* <-- END LAYOUT --> */
