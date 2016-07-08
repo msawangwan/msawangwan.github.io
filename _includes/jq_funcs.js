@@ -1,12 +1,16 @@
 // on page load
 $(document).ready(function(){
-	$(".nav-toggle").on({
+	$("").on({
 		click: function(){ // see: mouseenter/mouseleave/hover as well
-			// toggle nav menu
-			$(".nav-menu").fadeIn();
+			$("").fadeIn();
 		},
 		hover: function(){
-			// toggle nav menu
 		}
+	});
+});
+
+$(document).ready(function(){
+	$(".nav-toggle").click(function(){
+		$(".nav-menu").fadeToggle();
 	});
 });
