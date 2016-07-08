@@ -10,6 +10,7 @@
 }
 
 .l-page-header {
+  margin: 0 auto;
   max-width: 95%;
   background-color: #FB8C00; /* orange 600 */
 }
