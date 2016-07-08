@@ -1,16 +1,16 @@
 * { box-sizing: border-box; } /* make math easy */
 
 body {
-  margin: 15px 15%;
-  padding: 10px 15%;
+  margin: 15px 5%;
+  padding: 10px 5%;
   background-color: #DCDBD9; /* light grey */
   font: normal 0.8em;
   line-height: 1.6em;
 }
 
 h1, h2, h3, h4 {
-  margin: 8px 10%;
-  padding: 5px 8%;
+  margin: 8px 3%;
+  padding: 5px 2.3%;
   font-family: 'Suez One', serif;
 /*  font-family: 'Oswald', sans-serif; */
   font-weight: bold;
@@ -29,8 +29,8 @@ h4 { font-size: 1em }
 
 p {
   text-indent: 2em;
-  margin: 10px 15%;
-  padding: 4px 8%;
+  margin: 10px 3%;
+  padding: 4px 2.3%;
   font-family: 'Inconsolata', monospace;
 }
 
