@@ -5,10 +5,12 @@ body {
   padding: 10px 15%;
   background-color: #DCDBD9; /* light grey */
   font: normal 0.8em;
-  line-height: 140%;
+  line-height: 160%;
 }
 
 h1, h2, h3, h4 {
+  margin: 8px 10%;
+  padding: 5px 8%;
   font-family: 'Suez One', serif;
 /*  font-family: 'Oswald', sans-serif; */
   font-weight: bold;
@@ -26,6 +28,9 @@ h3 { font-size: 1.35em }
 h4 { font-size: 1em }
 
 p {
+  text-indent: 2em;
+  margin: 10px 15%;
+  padding: 4px 8%;
   font-family: 'Inconsolata', monospace;
 }
 
