@@ -1,22 +1,24 @@
-* {
-  box-sizing: border-box; /* make math easy */
-}
+* { box-sizing: border-box; } /* make math easy */
 
 body {
-  margin: 15px 8%;
-  padding: 10px 8%;
+  margin: 15px 15%;
+  padding: 10px 15%;
   background-color: #DCDBD9; /* light grey */
-/*  font: normal 0.8em "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font: normal 0.8em;
   line-height: 140%;
 }
 
-h1, h2 {
-  font-family: 'Suez One', 'Oswald', serif, sans-serif;
+h1, h2, h3, h4 {
+  font-family: 'Suez One', serif;
+/*  font-family: 'Oswald', sans-serif; */
   font-weight: bold;
   letter-spacing: 2px;
-/*  font: bold 2em Trebuchet; */
 }
+
+h1 { font-size: 2em }
+h2 { font-size: 1.5em }
+h3 { font-size: 1.25em }
+h4 { font-size: 1em }
 
 p {
   font-family: 'Inconsolata', monospace;
