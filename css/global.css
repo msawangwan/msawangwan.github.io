@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box; /* make math easy */
+}
+
+body {
+  margin: 15px 8%;
+  padding: 10px 8%;
+  background-color: #DCDBD9; /* light grey */
+/*  font: normal 0.8em "Helvetica Neue", Helvetica, Arial, sans-serif; */
+  font: normal 0.8em;
+  line-height: 140%;
+}
+
+h1, h2 {
+  font-family: 'Suez One', 'Oswald', serif, sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+/*  font: bold 2em Trebuchet; */
+}
+
+p {
+  font-family: 'Inconsolata', monospace;
+}
+
+/* <-- DEBUG RULES --> */
+
+body {
+  border: 1px dotted #ff0000; /* red */
+}
+
+div, h1, h2, h3, h4, h5, h6, ul {
+  border: 1px dashed #000000; /* black */
+}
+
+/* <-- END DEBUG RULES --> */
