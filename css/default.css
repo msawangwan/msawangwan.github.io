@@ -8,11 +8,10 @@ nav ul {
   max-height: 0em;
   overflow: hidden;
   transition: max-height 0.4s;
-  text-align: center;
 }
 
 nav ul li {
-  display: block;
+  /*display: block;*/
 }
 
 #page {
@@ -34,6 +33,8 @@ nav ul li {
 .nav-persistant {
   width: 100%;
   position: fixed;
+  display: block;
+  text-align: center;
   background-color: white;
 }
 
