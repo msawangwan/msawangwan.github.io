@@ -18,7 +18,6 @@ nav ul li {
   width: 320px;
   max-width: 100%;
   margin: 0 auto;
-  background-color: #FFFFFF; /* white 000 */
 }
 
 .header-container { width: 100%; }
@@ -27,7 +26,6 @@ nav ul li {
 .nav-container {
   width: 100%;
   margin: 0 auto;
-  background-color: grey;
 }
 
 .nav-persistant {
