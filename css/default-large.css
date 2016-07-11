@@ -11,7 +11,8 @@
 
   .nav-persistant {
     max-width: 100%;
-    margin: 5% auto;
+    margin: 5% 0 auto;
+    padding: 10px 0;
     position: static;
     text-align: left;
     display: inline-block;
