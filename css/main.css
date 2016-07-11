@@ -19,3 +19,7 @@
 .content-container {
   width: 100%
 }
+
+div {
+  border: 1px black;
+}
