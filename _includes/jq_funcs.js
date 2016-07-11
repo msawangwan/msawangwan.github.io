@@ -1,11 +1,7 @@
 // on page load
 $(document).ready(function(){
-	$("").on({
-		click: function(){ // see: mouseenter/mouseleave/hover as well
-			$("").fadeIn();
-		},
-		hover: function(){
-		}
+	$('.l-nav-handle').on('click', function() {
+		$('.nav-persist').toggleClass('.l-nav-handle-toggle');
 	});
 });
 
