@@ -36,7 +36,7 @@ nav ul li {
   right: 0;
   display: block;
   text-align: left;
-  background-color: white;
+  background-color: #D0cecc; /* lighter gray */
 }
 
 .nav-persistant-handle {
