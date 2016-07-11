@@ -21,7 +21,8 @@
     left: 5%;
     right: 5%;
     text-align: left;
-    display: inline-block;
+    display: inline;
+    background-color: #DCDBD9;
   }
 
   .nav-persistant-handle {
