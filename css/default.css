@@ -31,10 +31,11 @@ nav ul {
 }
 
 nav ul li {
-  display: inline-block
+  display: block;
 }
 
 .nav-persistant {
+  max-width: 100%;
   position: fixed;
 }
 
