@@ -9,11 +9,7 @@
     margin: 5% auto;
   }
 
-  .nav-container {
-    max-width: 95%;
-  }
-
-  .nav-persistant {
+  nav .nav-persistant {
     max-width: 100%;
     margin: 8px 2%;
     padding: 5px 1.3%;
