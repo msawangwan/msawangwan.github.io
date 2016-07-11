@@ -1,6 +1,7 @@
 @media (min-width: 960px) {
   nav ul {
     max-height: 20em;
+    overflow: auto;
   }
 
   #page {
@@ -13,7 +14,7 @@
     max-width: 100%;
     margin: 8px 2%;
     padding: 5px 1.3%;
-    position: static;
+    position: initial;
     text-align: left;
     display: inline;
     background-color: #DCDBD9;
