@@ -9,13 +9,11 @@
     margin: 5% auto;
   }
 
-  nav .nav-persistant {
+  .nav-persistant {
     max-width: 100%;
     margin: 8px 2%;
     padding: 5px 1.3%;
     position: static;
-    left: 5%;
-    right: 5%;
     text-align: left;
     display: inline;
     background-color: #DCDBD9;
