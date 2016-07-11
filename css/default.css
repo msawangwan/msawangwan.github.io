@@ -34,6 +34,8 @@ nav ul li {
   display: block;
 }
 
+.nav-container { width: 100%; }
+
 .nav-persistant {
   max-width: 100%;
   position: fixed;
