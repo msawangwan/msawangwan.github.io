@@ -36,14 +36,14 @@ p {
   text-indent: 2em;
 }
 
-/* <-- DEBUG RULES --> */
+/* <-- DEBUG RULES -->
 
 body {
-  border: 1px dotted #ff0000; /* red */
+  border: 1px dotted #ff0000;
 }
 
 div, h1, h2, h3, h4, h5, h6, ul {
-  border: 1px dashed #000000; /* black */
+  border: 1px dashed #000000;
 }
 
-/* <-- END DEBUG RULES --> */
+ <-- END DEBUG RULES --> */
