@@ -1,24 +1,5 @@
 /* default layout for small form-factor devices. */
 
-/* <-- BEGIN LAYOUT --> */
-
-#page {
-  width: 320px;
-  max-width: 100%;
-  margin: 0 auto;
-  background-color: #FFFFFF; /* white 000 */
-}
-
-.l-page-header {
-  max-width: 95%;
-}
-
-.l-page-nav, .l-page-container {
-  max-width: 95%;
-}
-
-.l-page-header, .l-page-nav, .l-page-container { margin: 8px auto; }
-
 nav {
   max-width: 100%
 }
@@ -33,13 +14,25 @@ nav ul li {
   display: block;
 }
 
-.nav-container { width: 100%; }
+#page {
+  width: 320px;
+  max-width: 100%;
+  margin: 0 auto;
+  background-color: #FFFFFF; /* white 000 */
+}
+
 .header-container { width: 100%; }
 .content-container { width: 100%; }
+
+.nav-container {
+  width: 100%;
+  background-color: grey;
+}
 
 .nav-persistant {
   width: 100%;
   position: fixed;
+  background-color: white;
 }
 
 .nav-persistant-handle {
@@ -50,5 +43,3 @@ nav ul li {
 .nav-persistant-animate {
   max-height: 20em;
 }
-
-/* <-- END LAYOUT --> */
