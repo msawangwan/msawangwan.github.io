@@ -34,13 +34,17 @@ nav ul li {
   display: inline-block
 }
 
-.l-nav-handle-toggle {
-  max-height: 20em;
+.nav-persistant {
+  position: fixed;
 }
 
-.l-nav-handle {
+.nav-persistant-handle {
   display: block;
   cursor: pointer;
+}
+
+.nav-persistant-animate {
+  max-height: 20em;
 }
 
 /* <-- END LAYOUT --> */
