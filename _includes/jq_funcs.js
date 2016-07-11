@@ -1,7 +1,7 @@
 // on page load
 $(document).ready(function(){
 	$('.l-nav-handle').on('click', function() {
-		$('.nav-persist').toggleClass('.l-nav-handle-toggle');
+		$('nav-persist').toggleClass('l-nav-handle-toggle');
 	});
 });
 
