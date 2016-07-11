@@ -1,7 +1,7 @@
 /* default layout for small form-factor devices. */
 
 nav {
-  max-width: 100%
+  width: 100%
 }
 
 nav ul {
