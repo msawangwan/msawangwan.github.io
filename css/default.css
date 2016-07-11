@@ -2,10 +2,10 @@
 
 /* <-- BEGIN LAYOUT --> */
 
-#l-page {
+#page {
   width: 320px;
   max-width: 100%;
-  margin: 4px auto;
+  margin: 0 auto;
   background-color: #FFFFFF; /* white 000 */
 }
 
