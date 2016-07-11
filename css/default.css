@@ -16,7 +16,7 @@ nav ul li {
 
 #page {
   width: 320px;
-  max-width: 100%;
+/*  max-width: 100%; */
   margin: 0 auto;
   background-color: #FFFFFF; /* white 000 */
 }
