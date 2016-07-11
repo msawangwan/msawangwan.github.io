@@ -16,7 +16,7 @@ nav ul li {
 
 #page {
   width: 320px;
-/*  max-width: 100%; */
+  max-width: 100%;
   margin: 0 auto;
   background-color: #FFFFFF; /* white 000 */
 }
@@ -36,7 +36,7 @@ nav ul li {
   left: 0;
   right: 0;
   display: block;
-  text-align: center;
+  text-align: left;
   background-color: white;
 }
 
