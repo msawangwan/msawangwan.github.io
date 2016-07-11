@@ -1,6 +1,6 @@
 @media (min-width: 960px) {
   nav ul {
-    max-height: auto;
+    max-height: 20em;
   }
 
   #page {
