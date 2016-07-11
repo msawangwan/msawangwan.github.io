@@ -23,4 +23,8 @@
     text-align: left;
     display: inline-block;
   }
+
+  .nav-persistant-handle {
+    display: hidden;
+  }
 }
