@@ -33,9 +33,9 @@ nav ul li {
 .nav-persistant {
   width: 100%;
   position: fixed;
+  top: 0;
   left: 0;
   right: 0;
-  margin-top: 0;
   display: block;
   text-align: left;
   background-color: white;
