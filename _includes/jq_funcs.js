@@ -9,7 +9,7 @@ $(document).ready(function(){
 	});
 });
 
-$(document).ready(function(){
+$(document).ready(function(){ // replcae this with animate (using queue)
 	$(".nav-toggle").click(function(){
 		$(".nav-menu").fadeToggle();
 	});
