@@ -8,4 +8,9 @@
     max-width: 100%;
     margin: 5% auto;
   }
+
+  .nav-persistant {
+    position: static;
+    text-align: left;
+    display: inline-block;
 }
