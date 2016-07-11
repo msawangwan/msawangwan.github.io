@@ -26,6 +26,6 @@
   }
 
   .nav-persistant-handle {
-    display: hidden;
+    display: none;
   }
 }
