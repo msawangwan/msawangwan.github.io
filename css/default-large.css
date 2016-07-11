@@ -10,7 +10,10 @@
   }
 
   .nav-persistant {
+    max-width: 100%;
+    margin: 5% auto;
     position: static;
     text-align: left;
     display: inline-block;
+  }
 }
