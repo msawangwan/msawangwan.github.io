@@ -61,3 +61,7 @@ a {
   font-family: 'Suez One', serif;
   text-decoration: none;
 }
+
+.quote {
+  font-style: italic;
+}
