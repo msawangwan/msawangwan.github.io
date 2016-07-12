@@ -61,6 +61,10 @@ li {
   font-family: 'Inconsolata', monospace;
 }
 
+.nav-container li {
+  font-family: 'Suez One', serif;
+}
+
 a {
   color: #585756;
   font-family: 'Suez One', serif;
