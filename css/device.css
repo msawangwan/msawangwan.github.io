@@ -22,7 +22,7 @@
     margin-bottom: 0.8em
   }
 
-  li {
+  .nav-container li {
     display: inline;
   }
 }
