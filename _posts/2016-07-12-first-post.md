@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ page.date }}/the first post
+title: 2016/07/12/the first post
 show_quote: false
 ---
 
