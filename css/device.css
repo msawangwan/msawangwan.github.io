@@ -2,13 +2,16 @@
   .header-container,
   .nav-container,
   .content-container {
+    margin-bottom: 1.1em;
     text-align: center
   }
 }
 
 @media screen and (min-width: 41em) {
-  .header-container {
-    margin-top: 0.8em
+  .header-container,
+  .nav-container,
+  .content-container {
+    margin-bottom: 0.8em
   }
 
   li {
