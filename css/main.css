@@ -24,6 +24,14 @@ div {
   padding .5em;
 }
 
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2.2em;
+}
+
 h1, h2 {
   margin: 0.8em auto;
   padding: 0.8em;
