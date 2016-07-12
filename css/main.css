@@ -40,6 +40,7 @@ h2 {
 h1, h2 {
   font-family: 'Suez One', serif;
   display: block;
+  line-height: 1.2;
 }
 
 h1, h2, p, ul, li {
