@@ -1,15 +1,32 @@
 {% include head.html %}
-<div id='l-page'>
-  <header>
-    <div class='l-page-header'>
-      <h1>{{ layout.title }}</h1>
-      <div class='l-page-nav'>
-        {% include nav.html %}
+<div class='page-container' role='main'>
+  <div id='page'>
+
+    <nav>
+      <div class='nav-container'>
+        <ul>
+        <li><a href='#'>Home</a></li>
+        <li><a href='#'>About</a></li>
+        <li><a href='#'>Articles</a></li>
+        </ul>
       </div>
-    </div>
-  </header>
-  <section class='l-page-container'>
-    {{ content }}
-  </section>
+    </nav>
+
+    <header>
+      <div class='header-container'>
+        <h1>{{ page.title }}</h1>
+      </div>
+    </header>
+
+    <section>
+      <div class='content-container'>
+        <h2>{{ page.quote }}</h2>
+      </div>
+      <div class='content-container'>
+        {{ content }}
+      </div>
+    </section>
+
+  </div>
 </div>
 {% include foot.html %}
