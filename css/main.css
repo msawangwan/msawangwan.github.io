@@ -3,7 +3,7 @@ body {
 }
 
 .page-container {
-  max-width: 32em;
+  max-width: 64em;
   margin: 0 auto;
   padding: 0 1em;
 }
