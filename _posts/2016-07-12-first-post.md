@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2016/07/12/the first post
+title: articles/the first post
 show_quote: false
 ---
 
