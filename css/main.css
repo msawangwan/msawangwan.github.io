@@ -30,21 +30,14 @@ div {
 
 h1 {
   font-size: 3em;
-  margin-top: 0.2em;
-  margin-bottom: 0.3em;
 }
 
 h2 {
   font-size: 2.2em;
-  margin-top: 0.1em;
-  margin-bottom: 0.8em;
 }
 
 h1, h2 {
   font-family: 'Suez One', serif;
-  margin-left: 0.8em;
-  margin-right: 0.8em;
-  padding: 0.8em;
   display: block;
 }
 
@@ -54,8 +47,9 @@ p {
 }
 
 ul {
-  margin: 0.2em auto;
 }
 
-li {
+h1, h2, p, ul, li {
+  margin: 0.2em auto;
+  padding: 0.2em;
 }
