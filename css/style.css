@@ -57,6 +57,10 @@ ul {
   list-style-type: none;
 }
 
+li {
+  font-family: 'Inconsolata', monospace;
+}
+
 a {
   color: #585756;
   font-family: 'Suez One', serif;
