@@ -1,10 +1,7 @@
 ---
 layout: default
 title: about
+quote: 'know thy self'
 ---
 
-# Test
-
-## Testtesttest
-
-**hello world**
+**i enjoy learning, mostly.**
