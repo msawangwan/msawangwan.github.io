@@ -1,17 +1,11 @@
 .page-container {
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-flow: row wrap;
-  flex-flow: row wrap;
-  margin: 0;
-  padding: 0;
-  width: 100%;
+  max-width: 64em;
+  margin: 0 auto;
+  padding: 0 1em;
 }
 
 .page-container div {
   box-sizing: border-box;
-  min-height: 150px;
-  min-width: 150px;
 }
 
 .nav-container,
