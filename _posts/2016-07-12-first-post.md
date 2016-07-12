@@ -1,6 +1,6 @@
 ---
 layout: default
-title: articles/the first post
+title: articles/the-first-post
 show_quote: false
 ---
 
