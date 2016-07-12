@@ -41,6 +41,11 @@ h1, h2 {
   display: block;
 }
 
+h1, h2, p, ul, li {
+  margin: 0.2em auto;
+  padding: 0.2em;
+}
+
 p {
   font-family: 'Inconsolata', monospace;
   line-height: 1.1;
@@ -50,7 +55,7 @@ ul {
   list-style-type: none;
 }
 
-h1, h2, p, ul, li {
-  margin: 0.2em auto;
-  padding: 0.2em;
+a {
+  font-family: 'Suez One', serif;
+  text-decoration: none;
 }
