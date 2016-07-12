@@ -1,4 +1,8 @@
 @media screen and (max-width: 40em) {
+  .header-container {
+    margin-top: 0.5em;
+  }
+
   .header-container,
   .nav-container,
   .content-container {
@@ -8,6 +12,10 @@
 }
 
 @media screen and (min-width: 41em) {
+  .header-container {
+    margin-top: 0.5em;
+  }
+
   .header-container,
   .nav-container,
   .content-container {
