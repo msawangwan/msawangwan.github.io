@@ -61,10 +61,6 @@ li {
   font-family: 'Inconsolata', monospace;
 }
 
-.nav-container li {
-  font-family: 'Suez One', serif;
-}
-
 a {
   color: #585756;
   font-family: 'Suez One', serif;
@@ -83,6 +79,10 @@ a:hover {
 a:active {
   color: #c6c5c3;
   background-color: #2c2b2b;
+}
+
+a .content-container {
+  font-family: 'Inconsolata', monospace;
 }
 
 .quote {
