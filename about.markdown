@@ -1,7 +1,7 @@
 ---
 layout: default
 title: about
-quote: 'know thy self'
+quote: know thy self
 ---
 
-**i enjoy learning, mostly.**
+i enjoy learning, mostly.
