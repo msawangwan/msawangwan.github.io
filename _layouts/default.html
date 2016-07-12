@@ -19,9 +19,11 @@
     </header>
 
     <section>
+      {% if page.show_quote %}
       <div class='content-container'>
         <h2 class='quote'>'{{ page.quote }}'</h2>
       </div>
+      {% endif %}
       <div class='content-container'>
         {{ content }}
       <br/>
