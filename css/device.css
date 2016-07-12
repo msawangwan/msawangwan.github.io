@@ -7,6 +7,10 @@
 }
 
 @media screen and (min-width: 41em) {
+  .header-container {
+    margin-top: 0.8em
+  }
+
   li {
     display: inline;
   }
