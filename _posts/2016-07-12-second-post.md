@@ -1,6 +1,6 @@
 ---
 layout: default
-title: articles/the-first-post
+title: articles/the-second-post
 show_quote: false
 ---
 
@@ -15,6 +15,6 @@ ok so that *works* as does **this**. pretty cool.
 
 and howdy doody hehe.
 
-      code snippet??
+        code snippet??
 
 idk if that works
