@@ -32,7 +32,8 @@ listed here are all the commands you need to know to get work done.
     :~$ git checkout [-b] [new_branch_name]
 
     // merge changes from one branch into another
-    :~$ git merge [branch_to_get_changes_from] // while on the branch merging into
+    // run command from the branch you want to merge into
+    :~$ git merge [branch_to_get_changes_from]
 
 {% endhighlight %}
 

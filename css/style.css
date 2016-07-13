@@ -16,6 +16,10 @@ div {
   box-sizing: border-box;
 }
 
+br {
+  line-height: 0.2em;
+}
+
 .header-container,
 .nav-container,
 .content-container {
