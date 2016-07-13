@@ -45,7 +45,7 @@ h1, h2 {
 
 /* top-right-bottom-left */
 h1, h2, p, ul, li {
-  margin: auto 0.2em auto 0.2em;
+  margin: 0.2em auto;
   padding: 0.2em;
 }
 
