@@ -1,6 +1,6 @@
 ---
 layout: default
-title: article/git-intro
+title: article/git_intro
 show_quote: false
 ---
 
