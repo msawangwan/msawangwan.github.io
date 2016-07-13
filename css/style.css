@@ -62,10 +62,6 @@ ul {
   list-style-type: none;
 }
 
-p li {
-  font-family: 'Oswald', sans-serif;
-}
-
 a {
   color: #585756;
   font-family: 'Suez One', serif;
@@ -88,6 +84,10 @@ a:active {
 
 a .content-container {
   font-family: 'Inconsolata', monospace;
+}
+
+p li a {
+  font-family: 'Oswald', sans-serif;
 }
 
 hr {
