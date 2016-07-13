@@ -101,7 +101,7 @@ hr {
 .highlight-bg {
   display: inline-block;
   background-color: #b0afad;
-  word-wrap: break-word;
+  word-break: break-word;
 }
 
 .quote {
