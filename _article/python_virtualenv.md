@@ -39,3 +39,5 @@ delete an env:
 list all envs:
 
     $~: lsvirtualenv
+
+[http://docs.python-guide.org/en/latest/dev/virtualenvs/](see this article for more detailed explaination)
