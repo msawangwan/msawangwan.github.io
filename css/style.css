@@ -16,7 +16,7 @@ div {
   box-sizing: border-box;
 }
 
-br {
+.br-spacer {
   margin: 0.2em;
 }
 
