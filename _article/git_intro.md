@@ -7,8 +7,6 @@ show_quote: false
 you cannot use git effectively unless you are familiar with the commandline. 
 listed here are all the commands you need to know to get work done.
 
-{% highlight bash %}
-
     // show modified and staged files for commit
     :~$ git status
 
@@ -34,7 +32,5 @@ listed here are all the commands you need to know to get work done.
     // merge changes from one branch into another
     // run command from the branch you want to merge into
     :~$ git merge [branch_to_get_changes_from]
-
-{% endhighlight %}
 
 these are just the basics.
