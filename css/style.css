@@ -43,7 +43,8 @@ h1, h2 {
   line-height: 1.2;
 }
 
-h1, h2, p, li {
+h1, h2, p, li .highlight {
+  display: inline;
   background-color: #b0afad;
 }
 
