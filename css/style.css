@@ -43,8 +43,9 @@ h1, h2 {
   line-height: 1.2;
 }
 
+/* top-right-bottom-left */
 h1, h2, p, ul, li {
-  margin: 0.2em auto;
+  margin: auto 0.2em auto 0.2em;
   padding: 0.2em;
 }
 
