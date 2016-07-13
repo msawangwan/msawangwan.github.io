@@ -26,6 +26,10 @@ div {
   width: 100%;
   margin: 1.2em auto; /* 2em was good but too much height */
   padding .5em;
+/*  border-bottom: 0.2em solid #000000; */
+}
+
+.nav-container {
   border-bottom: 0.2em solid #000000;
 }
 
