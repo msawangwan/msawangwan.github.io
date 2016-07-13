@@ -5,8 +5,8 @@ show_quote: true
 quote: ...the more i learn, the more i realize, the less i know
 ---
 
-archive of articles.
+collection of articles.
 
 * * *
 
-{% include archive.html %}
+{% include article_archive.html %}
