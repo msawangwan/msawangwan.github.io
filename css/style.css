@@ -14,7 +14,6 @@ body {
 
 div {
   box-sizing: border-box;
-  background-color: #b0afad;
 }
 
 div {
@@ -28,6 +27,7 @@ div {
   margin: 2em auto;
   padding .5em;
   border-bottom: 0.2em solid #000000;
+  background-color: #b0afad;
 }
 
 h1 {
