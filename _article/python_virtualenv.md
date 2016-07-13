@@ -6,13 +6,13 @@ show_quote: false
 
 virtualenv is package manger for python.
 
-    
-
 when developing, it's a good habit to install packages
-on a per project basis. supposedly this helps with
-dependency management. use virtualenv.
+on a per project basis.
 
-    
+supposedly this helps with
+dependency management.
+
+use virtualenv.
 
 first install virtualenv (globally):
 
