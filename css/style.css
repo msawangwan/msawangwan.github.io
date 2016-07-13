@@ -106,3 +106,8 @@ hr {
 .quote {
   font-style: italic;
 }
+
+code {
+/*  overflow-wrap: break-word; */
+  word-wrap: break-word;
+}
