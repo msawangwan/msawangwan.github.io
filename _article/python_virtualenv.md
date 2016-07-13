@@ -14,6 +14,8 @@ dependency management.
 
 use virtualenv.
 
+* * *
+
 first install virtualenv (globally):
 
     $~: pip install virtualenv
@@ -41,5 +43,7 @@ delete an env:
 list all envs:
 
     $~: lsvirtualenv
+
+* * *
 
 [see this article for more detailed explaination](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
