@@ -31,7 +31,8 @@ running these three commands simply installs **rvm** which is a version manager.
 
 * * *
 
-the important command here is the second one. the first command lists the available versions to install, while
-the third command lists the versions installed via rvm.
+the important command here is the second one.
+the first command lists possible versions to install, while
+the third command lists the versions on the system managed by rvm.
 
 good luck.
