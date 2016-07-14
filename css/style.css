@@ -84,12 +84,16 @@ a:active {
   background-color: #2c2b2b;
 }
 
-a .content-container {
+p a {
   font-family: 'Inconsolata', monospace;
 }
 
 p li a {
   font-family: 'Oswald', sans-serif;
+}
+
+.content-container ul a {
+  font-family: 'Inconsolata', monospace;
 }
 
 hr {
@@ -112,7 +116,7 @@ code {
 /*  overflow-wrap: break-word; */
   word-wrap: break-word;
 }
-
+/*
 p a {
   font-family: 'Inconsolata', monospace;
-}
+}*/
