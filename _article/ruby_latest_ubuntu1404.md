@@ -1,6 +1,6 @@
 ---
 layout: default
-title: article/ruby_latest_ubuntu14.04
+title: article/ruby_latest_ubuntu1404
 show_quote: false
 ---
 
