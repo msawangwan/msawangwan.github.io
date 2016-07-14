@@ -5,4 +5,4 @@ markdown: kramdown
 collections:
     article:
         output: true
-        permalink: /article/:path/
+        permalink: /:path/
