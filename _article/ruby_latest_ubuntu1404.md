@@ -1,7 +1,7 @@
 ---
 layout: default
 title: article/ruby_latest_ubuntu14.04
-show_quote:false
+show_quote: false
 ---
 
 with ubuntu 14,04 (for whatever reason) you can't do
