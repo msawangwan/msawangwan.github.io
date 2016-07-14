@@ -46,4 +46,4 @@ list all envs:
 
 * * *
 
-[see this article for more detailed explaination](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
+see [this article](http://docs.python-guide.org/en/latest/dev/virtualenvs/) for a more detailed explaination.
