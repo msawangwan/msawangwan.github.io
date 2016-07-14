@@ -6,13 +6,17 @@ show_quote: false
 
 with ubuntu 14,04 (for whatever reason) you can't do
 
+* * *
+
     :~$ sudo apt-get ruby 2.3.0
+
+* * *
 
 to get the latest stable build of ruby.
 
 you're kinda' stuck with 1.9.3 unless you use a version manager.
 
-ubuntu 16.04 is just around the corner, so this may be an irrelvant
+ubuntu 16.04 is just around the corner, so this may be an irrelevant
 tip -- none-the-less, i found this to be the simplest work-around on 14.04
 
 * * *

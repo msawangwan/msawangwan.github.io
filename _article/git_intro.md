@@ -4,7 +4,7 @@ title: article/git_intro
 show_quote: false
 ---
 
-you cannot use git effectively unless you are familiar with the commandline. 
+you cannot use git effectively unless you are familiar with the command line. 
 listed here are all the commands you need to know to get work done.
 
 * * *

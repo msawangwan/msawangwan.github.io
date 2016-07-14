@@ -16,31 +16,31 @@ use virtualenv.
 
 * * *
 
-first install virtualenv (globally):
+first install virtualenv (globally)
 
     $~: pip install virtualenv
 
-then install a wrapper which makes working with venvs more pleasent:
+then install a wrapper which makes working with venvs easier
 
     $~: pip install virtualenvwrapper-win
 
-now you can create virtual envionrments:
+now you can create virtual environments
 
     $~: mkvirtualenv [name_of_env]
 
-switch between envs:
+switch between envs
 
     $~: workon [name_of_env]
 
-exit an env:
+exit an env
 
     $~: deactivate
 
-delete an env:
+delete an env
 
     $~: rmvirtualenv [name_of_env]
 
-list all envs:
+list all envs
 
     $~: lsvirtualenv
 
