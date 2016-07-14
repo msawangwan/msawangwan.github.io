@@ -1,6 +1,6 @@
 ---
 layout: default
-title: scp_basics
+title: article/scp_basics
 show_quote: false
 ---
 
