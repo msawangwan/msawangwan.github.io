@@ -1,6 +1,6 @@
 ---
 layout: default
-title: articles
+title: article
 show_quote: true
 quote: ...the more i learn, the more i realize, the less i know
 ---
